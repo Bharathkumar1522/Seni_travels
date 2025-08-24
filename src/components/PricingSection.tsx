@@ -77,7 +77,7 @@ export const PricingSection = () => {
       scale: 1,
       transition: {
         duration: 0.8,
-        ease: [0.25, 0.46, 0.45, 0.94]
+        ease: [0.25, 0.46, 0.45, 0.94]  as [number, number, number, number]
       }
     }
   };
@@ -134,7 +134,11 @@ export const PricingSection = () => {
               whileHover={{ 
                 y: -15,
                 rotateY: 5,
-                transition: { duration: 0.4, ease: "easeOut" }
+                transition: 
+                { 
+                  duration: 0.4, 
+                  ease: "easeOut" 
+                }
               }}
               className="group relative"
             >
