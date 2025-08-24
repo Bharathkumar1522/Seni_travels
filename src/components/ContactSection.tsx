@@ -172,7 +172,7 @@ export const ContactSection = () => {
                     >
                       <div className="w-20 h-20 rounded-full overflow-hidden ring-4 ring-white/20">
                         <img
-                          src="/public/WhatsApp Image 2025-08-20 at 11.06.05_d92834ae.jpg"
+                          src="https://res.cloudinary.com/dyecmgvcy/image/upload/v1756017470/Seni%20travels/WhatsApp_Image_2025-08-20_at_11.06.05_d92834ae_ly0md6.jpg"
                           alt="PROP VINAY SENI"
                           className="w-full h-full object-cover"
                         />

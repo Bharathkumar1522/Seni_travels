@@ -79,7 +79,7 @@ export const HeroSection = () => {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src="/public/WhatsApp Image 2025-08-20 at 11.06.05_d92834ae.jpg"
+                  src="https://res.cloudinary.com/dyecmgvcy/image/upload/v1756017470/Seni%20travels/WhatsApp_Image_2025-08-20_at_11.06.05_d92834ae_ly0md6.jpg"
                   alt="SENI TRAVELS"
                   className="w-full h-full object-cover"
                 />
